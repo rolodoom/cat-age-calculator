@@ -55,9 +55,9 @@ export default function CatAgeResult({ result, lang }) {
         </span>{' '}
         {t(lang, 'resultSuffix')}
       </p>
-      <p className="mt-1 flex items-center justify-center gap-1.5 text-lg text-gray-500 dark:text-gray-300">
-        <Leaf /> {t(lang, 'stagePrefix')}
-        <span>{rightArrow}</span>
+      <p className="mt-1 text-lg text-gray-500 dark:text-gray-300">
+        <Leaf className="inline-block" /> {t(lang, 'stagePrefix')}
+        {` ${rightArrow} `}
         <span className={`text-slate-800 ${stageStyles[stageKey].text}`}>
           {stage}
         </span>
