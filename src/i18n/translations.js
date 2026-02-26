@@ -23,6 +23,7 @@ export const translations = {
   },
   en: {
     languageName: 'English',
+    inspiration: 'Inspired by',
     title: 'Cat Age Calculator',
     subtitle: 'Convert feline years into human equivalents.',
     label: 'Cat age (in years)',
@@ -41,6 +42,7 @@ export const translations = {
   },
   pt: {
     languageName: 'Português',
+    inspiration: 'Inspirado em',
     title: 'Calculadora de Idade de Gato',
     subtitle: 'Converte anos felinos em seus equivalentes humanos.',
     label: 'Idade do gato (em anos)',
@@ -59,6 +61,7 @@ export const translations = {
   },
   fr: {
     languageName: 'Français',
+    inspiration: 'Inspiré de',
     title: "Calculatrice d'Age de Chat",
     subtitle: 'Convertir les années felines en leurs equivalences humaines.',
     label: 'Age du chat (en années)',
@@ -77,6 +80,7 @@ export const translations = {
   },
   de: {
     languageName: 'Deutsch',
+    inspiration: 'Inspiriert von',
     title: 'Katzenalterrechner',
     subtitle: 'Konvertiere Katzenjahre in Menschenjahre.',
     label: 'Katzenalter (in Jahren)',
@@ -95,6 +99,7 @@ export const translations = {
   },
   ch_zh: {
     languageName: '中文',
+    inspiration: '灵感来自',
     title: '猫猫年龄计算器',
     subtitle: '将猫猫年龄转换为人类年龄。',
     label: '猫猫年龄(年)',
@@ -113,6 +118,7 @@ export const translations = {
   },
   ru: {
     languageName: 'Русский',
+
     title: 'Калькулятор возраста кота',
     subtitle: 'Преобразует годы кошек в соответствующие годы человека.',
     label: 'Возраст кошки (в годах)',
