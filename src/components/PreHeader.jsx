@@ -11,7 +11,7 @@ export default function PreHeader({ lang }) {
       &
       <span className="flex items-center gap-0.5">
         <PawPrint className="h-4 w-4 text-indigo-500 dark:text-indigo-400" />
-        Musguruza
+        Muguruza
       </span>
     </div>
   )
